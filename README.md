@@ -1,4 +1,4 @@
-![My Social Card](Salinan May.png)
+![My Social Card](RenJayAllAi.png)
 <!--
 **RenegadeJayhawk/RenegadeJayhawk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
