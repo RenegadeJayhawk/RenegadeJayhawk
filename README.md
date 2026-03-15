@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![My Social Card](your-image-filename.png)
 <!--
 **RenegadeJayhawk/RenegadeJayhawk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
